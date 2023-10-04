@@ -1,3 +1,8 @@
 heyyyyy
 this is rishikesh kt
+<<<<<<< HEAD
 no i cant
+=======
+
+yes we can do
+>>>>>>> feature
